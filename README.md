@@ -20,8 +20,8 @@ I created this github to share my coding and programming journey and experience 
 
 📫 How to reach me: 
 - 🔗 LinkedIn: https://www.linkedin.com/in/victoria-clotet/
-- 🐦 X: @vixclotet
-- 📸 Instagram: @vixclotet
+- 🐦 X: [@vixclotet](https://x.com/vixclotet)
+- 📸 Instagram: [@vixclotet](https://www.instagram.com/vixclotet/)
 - ☕ BuyMeACoffee: https://buymeacoffee.com/vixclotet
 - ✉️ Email: vixbusinesstech@gmail.com
 
