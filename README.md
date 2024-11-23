@@ -1,20 +1,18 @@
 ### Hi there 👋
 
-My name is Victoria (Vix) and I am currently an Indie Hacker.
-
-I created this github to share my coding and programming journey and experience while at the same time I share my personal projects.
+My name is Victoria (Vix) and I am currently a Tech Founder/Indie Hacker.
 
 ## About Me
 
 - 🎓 Recently graduated from the University of Virginia with a B.S. in Commerce from the McIntire School of Commerce and a B.A. in Computer Science in the College of Arts and Sciences.
 - 🔭 I’m currently building unexpected things.
-- 🌱 I’m highly interested in Product Management, Business Analytics, Consumer and Entertainment Tech, B2B SaaS products, and Financial Technology.
 
 ## My Interests
 - 💬 Ask me about anything about
   - VCs/Finance
-  - Anything Tech Related
-  - UI/UX Design
+  - Deep Tech and Dev Tools
+  - FinTech
+  - Consumer and Entertainment Tech
 
 ## Contact Me
 
