@@ -4,8 +4,8 @@ My name is Victoria (Vix) and I am currently a Tech Founder/Indie Hacker.
 
 ## About Me
 
-- 🎓 Recently graduated from the University of Virginia with a B.S. in Commerce from the McIntire School of Commerce and a B.A. in Computer Science in the College of Arts and Sciences.
 - 🔭 I’m currently building unexpected things.
+- 🎓 Recently graduated from the University of Virginia with a B.S. in Commerce from the McIntire School of Commerce and a B.A. in Computer Science in the College of Arts and Sciences.
 
 ## My Interests
 - 💬 Ask me about anything about
