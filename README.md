@@ -20,7 +20,6 @@ My name is Victoria (Vix) and I am currently a Tech Founder/Indie Hacker.
 - 🔗 LinkedIn: https://www.linkedin.com/in/victoria-clotet/
 - 🐦 X: [@vixclotet](https://x.com/vixclotet)
 - 📸 Instagram: [@vixclotet](https://www.instagram.com/vixclotet/)
-- ☕ BuyMeACoffee: https://buymeacoffee.com/vixclotet
 - ✉️ Email: vixclotet@influsfera.com
 
 ## 💻 Tech Stack:
