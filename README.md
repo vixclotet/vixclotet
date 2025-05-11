@@ -5,7 +5,7 @@ My name is Victoria (Vix) and I am currently a Tech Founder/Indie Hacker.
 ## About Me
 
 - 🔭 I’m currently building my company Influsfera
-- 🎓 Recently graduated from the University of Virginia with a B.S. in Commerce from the McIntire School of Commerce and a B.A. in Computer Science in the College of Arts and Sciences.
+- 🎓 Graduated from the University of Virginia with a B.S. in Commerce from the McIntire School of Commerce and a B.A. in Computer Science in the College of Arts and Sciences in 2023.
 
 ## My Interests
 - 💬 Ask me about anything about
