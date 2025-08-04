@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=04BADE&width=435&lines=Hi+I'm+Vix;I+like+to+build+things+and+make+people+laugh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=04BADE&width=435&lines=Hi!+I'm+Vix;I+like+to+build+things+and+make+people+laugh;I'm+looking+for+sponsors+ngl)](https://git.io/typing-svg)
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=megh-bari.megh-bari&rstyle=plastic&left_text=Profile%20Views%20:"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vixclotet&rstyle=plastic&left_text=Profile%20Views%20:"  />
 </div>
 
 ## About
