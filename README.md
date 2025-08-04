@@ -18,4 +18,4 @@ I'm just a tech founders discovering and learning how to use new tools. Even tho
 </div>
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=04BADE&width=435&lines=%3E+Building.+Learning.+Measuring.+Shipping.+Repeating.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=04BADE&width=475&lines=%3E+Building.+Learning.+Measuring.+Shipping.+Repeating.)](https://git.io/typing-svg)
